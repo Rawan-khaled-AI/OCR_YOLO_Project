@@ -1,0 +1,15 @@
+streamlit
+ultralytics
+opencv-python
+pillow
+numpy
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+safetensors
+faster-whisper
+python-dotenv
+requests
+pandas
