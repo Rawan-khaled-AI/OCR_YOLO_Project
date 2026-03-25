@@ -14,3 +14,4 @@ models/
 medicine.v3i.yolov8/train/
 medicine.v3i.yolov8/valid/
 medicine.v3i.yolov8/test/
+models/deepseek_ocr/
