@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+
+runs/
+output_deepseek_crop/
+
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+models/
+medicine.v3i.yolov8/train/
+medicine.v3i.yolov8/valid/
+medicine.v3i.yolov8/test/

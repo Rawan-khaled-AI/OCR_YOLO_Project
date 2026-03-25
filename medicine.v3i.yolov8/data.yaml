@@ -1,0 +1,13 @@
+train: E:\project_ocr\medicine.v3i.yolov8\train
+val: E:\project_ocr\medicine.v3i.yolov8\valid
+test: E:\project_ocr\medicine.v3i.yolov8\test
+
+nc: 1
+names: ['medicine-']
+
+roboflow:
+  workspace: persondetection-um7bi
+  project: medicine-ernlf
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/persondetection-um7bi/medicine-ernlf/dataset/3
