@@ -8,7 +8,7 @@ st.set_page_config(page_title="OCR (English) - OCR.space", layout="wide")
 st.title("OCR (English) باستخدام OCR.space API")
 
 # ⚠️ يفضل تخزين المفتاح في Streamlit secrets بدل ما يكون مكتوب هنا
-api_key = "K81292492188957"
+api_key = ""
 
 # ✅ إنجليزي فقط
 language = "eng"
