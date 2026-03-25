@@ -13,9 +13,9 @@ from faster_whisper import WhisperModel
 # ----------------------------
 # API Keys (يفضل تحطيهم في .env بدل الكود)
 # ----------------------------
-OCR_API_KEY = "K82517969188957"
+OCR_API_KEY = ""
 OPENROUTER_API_KEY = (
-    "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"
+    ""
 )
 
 # ----------------------------
